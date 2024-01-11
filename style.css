@@ -40,4 +40,69 @@
     line-height: 95px; /* 131.944% */
   }
    
+   /* group02 related style */
+
+   #group02{
+    width: 856px;
+    height: 730px;
+    margin-top:50px;
+    margin-left: 379px;
+    position: relative;
+   }
+
+   .group02-heading{
+    width: 408px;
+    height: 80px;
+    margin-left: 224px;
+   }
+
+   .group02-heading h3{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size:50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+   }
+
+
+   .groupo2-text{
+    width: 437.116px;
+    height: 106.706px;
+    margin-left: 209.5px;
+    margin-top:5px;
    
+
+    }
+
+   .groupo2-text p{
+    width: 423.256px;
+    height: 30.043px;
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    
+    font-weight: 500;
+    
+
+   }
+
+   .groupo2-text h4{
+    width: 437.116px;
+    height: 60.087px;
+    
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    
+    font-weight: 700;
+   
+   }
+   .groupo2-text img{
+   width: 488px;
+   height: 408px;
+   }
+
