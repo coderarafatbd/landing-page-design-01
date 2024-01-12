@@ -238,3 +238,98 @@ border: none;
   border-radius: 16px;
  
 }
+
+
+/* Group05 related style */
+#group05{
+  width: 1320px;
+  height: 463px;
+  margin-top: 50px;
+  margin-left: 120px;
+  display: flex;
+  position: relative;
+}
+
+.group05-text-container{
+  width: 396px;
+  height: 255px;
+  position: absolute;
+  margin-left: 5px;
+}
+.group05-text-container h6{
+   width: 217.35px;
+   color: #F00;
+   text-align: center;
+   font-family: Inter;
+   font-size: 24px;
+   font-weight: 500;
+   line-height: normal;
+}
+.group05-text-container h4{
+  width: 344.4px;
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.group05-p-text{
+  width: 393px;
+  color: rgba(7, 2, 17, 0.60);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+}
+
+.ellipse-container{
+  width: 463px;
+  height: 463px;
+  border-radius: 463px;
+  align-items: center;
+  align-content: center;
+  margin-left: 472.5px;
+  position: absolute;
+  border: 15px;
+
+}
+.ellipse-container img{
+ width: 364.844px;
+height: 364.844px;
+flex-shrink: 0;
+border-radius: 364.844px;
+background: url(./Images/Ellipse1.png)}
+
+.year-text-container{
+  width: 286.449px;
+  height: 170px;
+  flex-shrink: 0;
+  margin-left: 950px;
+}
+.year-text-container h4{
+  width: 132.3px;
+  color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.year-text-container p{
+  width: 276px;
+  color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.year-text-container img{
+  width: 140px;
+height: 140px;
+flex-shrink: 0;
+}
