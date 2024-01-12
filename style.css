@@ -541,3 +541,33 @@ aspect-ratio: 1;
 border: none;
 
 }
+footer{
+  width:1320px;
+  height: 500px;
+  margin-top: 50px;
+  margin-left: 120px;
+  border-radius: 16px;
+  background: #070211;
+}
+.line1{
+  width: 1110px;
+  height: 1px;
+  color: rgba(243, 240, 240, 0.15);
+}
+.line2{
+  width: 1110px;
+  height: 1px;
+  color: rgba(243, 240, 240, 0.15);
+}
+.finish-text{
+  color:#FFF ;
+}
+.address-links{
+  color: #FFF;
+  display: flex;
+  text-decoration: none;
+}
+.address-links li{
+  text-decoration: none;
+  
+}
