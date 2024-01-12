@@ -457,3 +457,87 @@ line-height: normal;
   transform: scale(1.009);
   cursor: pointer;
 }
+
+#subscribe{
+  width: 1320px;
+  height: 616px;
+  margin-top: 50px;
+  margin-left: 120px;
+  border-radius: 16px;
+  background: rgba(255, 0, 0, 0.05); 
+}
+.sub-container{
+  width: 896px;
+  height: 336px;
+}
+.email img{
+  width: 150px;
+  height: 150px;
+  margin-top: 80px;
+  margin-left: 585px;
+}
+.text-container h2{
+  width: 537px;
+  color: #070211;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+  margin-left: 391px;
+  margin-top: 32px;
+
+}
+.text-container p{
+  width: 896px;
+  color: rgba(7, 2, 17, 0.60);
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  margin-left: 224px;
+  margin-top: 22px;
+}
+
+
+
+.warper{
+  width: 675px;
+  height: 72px;
+  margin-top: 20px;
+  margin-left:335.25px;
+  position: relative;
+}
+
+.warper input{
+  width: 648px;
+  height: 72px;
+  border: none;
+  border-radius: 50px;
+  background: #FFF;
+}
+
+.warper button{
+  width: 210px;
+height: 72px;
+
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+position: absolute;
+right: 0;
+aspect-ratio: 1;
+border: none;
+
+}
